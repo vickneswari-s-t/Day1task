@@ -1,0 +1,23 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+
+HTTP: Hyper Text Transfer Protocal 
+**********************************
+HTTP1.1: year-1989
+********
+
+1.Syantax and semantic get seprated.
+2.It is used a test based protocal.
+3.It support server push and not support multiplexing.
+4.It allows one request and response in single TCP connection.
+5.It top level protocal.
+
+HTTP 2.0: year-2015
+*********
+1.It's leave all high level semantic from http1.1
+2.It uses a binary protocal.
+3.It allows multiple response to be sent in single TCP connection.
+4.It support multiplexingand not support server push
+5.Http 2 is used a single TCP connection and it is began SPDY Protocal.
+
+                          
+

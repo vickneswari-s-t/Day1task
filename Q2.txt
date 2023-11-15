@@ -1,0 +1,9 @@
+Write a blog about objects and its internal representation in Javascript
+
+Javascript object is an method .
+The method can be performed as object.
+Object are important data type in Javascript.
+Every Object has some property associated with some value.
+Primative data type contain one value but it can hold many object.
+A property of an object can be explained as a variable that is attached to object.
+eg: object as Employee (age,address,id,education..etc)
